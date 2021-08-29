@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea077c16-3248-4c6b-8e95-624906f0e38d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/controllers/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/models/ERole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/models/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/payload/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/payload/request/SignupRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/payload/response/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/payload/response/MessageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/security/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/security/jwt/AuthEntryPointJwt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/security/jwt/AuthTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/security/jwt/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/services/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/com/test/zuul/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/customer-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-service/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-service/zuul-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-service/zuulservice.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xNwFshzGkEAjHzVdHqmpEhEgOQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zuul-service/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Italo\Documents\Spring\Spring-Zuul\zuul-service\src\main\resources" />
+      <recent name="C:\Users\Italo\Documents\Spring\Spring-Zuul\zuul-service\src\main\java\com\test\zuul\services" />
+      <recent name="C:\Users\Italo\Documents\Spring\Spring-Zuul\zuul-service\src\main\java\com\test\zuul\security\jwt" />
+      <recent name="C:\Users\Italo\Documents\Spring\Spring-Zuul\zuul-service\src\main\java\com\test\zuul\security" />
+      <recent name="C:\Users\Italo\Documents\Spring\Spring-Zuul\zuul-service\src\main\java\com\test\zuul\repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulService">
+    <configuration name="CustomerService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.customer.CustomerService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.eureka.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.order.OrderService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.zuul.ZuulService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea077c16-3248-4c6b-8e95-624906f0e38d" name="Default Changelist" comment="" />
+      <created>1630208753541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630208753541</updated>
+      <workItem from="1630208755964" duration="3602000" />
+      <workItem from="1630263812144" duration="2466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
